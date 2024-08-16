@@ -15,6 +15,6 @@ If you benefit from this code, make sure to cite this paper that motivated me to
 
 - Villacis, A. H., Ramsey, A. F., Delgado, J. A., & Alwang, J. R. (2020). Estimating Economically Optimal Levels of Nitrogen Fertilizer in No-Tillage Continuous Corn. Journal of Agricultural and Applied Economics, 52(4), 613-623.
 
-Feel free to reach out to me at: alexis.villacis@asu.edu if you have any questions or find any bugs.
+Feel free to reach out to me at: villacis.9@osu.edu if you have any questions or find any bugs.
 
 Thank you!!!
